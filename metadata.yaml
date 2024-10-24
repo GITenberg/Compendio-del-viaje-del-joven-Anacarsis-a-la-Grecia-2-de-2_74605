@@ -1,0 +1,27 @@
+_repo: Compendio-del-viaje-del-joven-Anacarsis-a-la-Grecia-2-de-2_74605
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Barthélemy, Jean-Jacques
+    gutenberg_agent_id: '57576'
+    url: http://www.gutenberg.org/2009/agents/57576
+description: ''
+gutenberg_issued: '2024-10-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74605'
+language: es
+pgterms:marc904: https://archive.org/details/AMont05529
+pgterms:marc905: 20240318022725bartelemi
+pgterms:marc906: '1830'
+pgterms:marc907: ES
+production_note: Ramón Pajares Box. (This file was produced from images generously
+  made available by The Internet Archive / Fondo antiguo de la Universidad de Sevilla.)
+publication_note: '  $aGerona :$bOliva, $c1830, copyright 1831.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Compendio del viaje del joven Anacarsis a la Grecia (2 de 2)
+url: http://www.gutenberg.org/ebooks/74605
