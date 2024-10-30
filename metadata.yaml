@@ -1,11 +1,16 @@
 _repo: Compendio-del-viaje-del-joven-Anacarsis-a-la-Grecia-2-de-2_74605
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 74605-h/images/cover.jpg
 creator:
   author:
     agent_name: Barthélemy, Jean-Jacques
     gutenberg_agent_id: '57576'
     url: http://www.gutenberg.org/2009/agents/57576
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74605#Compendio-del-viaje-del-joven-Anacarsis-a-la-Grecia-2-de-2
 gutenberg_issued: '2024-10-19'
 gutenberg_type: Text
 identifiers:
